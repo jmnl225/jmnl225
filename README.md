@@ -2,8 +2,7 @@
 - 👀 I’m interested in Backend, Android Studio, Kotlin, Python, Java, mySQL, swift and Indoor Gardening.
 - 🌱 I’m currently learning Python and Corutine.
 - 💞️ I’m looking to collaborate on side Project!
-- 📫 email: joominl15@gmail.com
-      blog: https://joominl.tistory.com/manage/posts/
+- 📫 email: joominl15@gmail.com /  blog: https://joominl.tistory.com/manage/posts/
 
 <!---
 jmnl225/jmnl225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
